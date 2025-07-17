@@ -1,8 +1,11 @@
 # Gridea Theme: Rocky Custom Edition (Version: v109.0.1)
 
-## Description
+> [!CAUTION]
+> ~~**Switch to Hexo, abandoning...**~~
+>
+> Currently, I'm trying to deploy my blog on netlify which is inspired by [antfu.me](https://antfu.me).
 
-**Switch to Hexo, abandoning...**
+## Description
 
 Applicable to [Gridea static blog client] (<https://github.com/getgridea/gridea>) 's blog theme Rocky, according to your own preferences to make some changes. Only for learning and communication!
 

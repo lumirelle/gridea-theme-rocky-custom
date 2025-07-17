@@ -2,9 +2,13 @@
 
 [EN README](README_EN.md)
 
-## 说明
+> [!CAUTION]
+>
+> ~~**转战 Hexo，弃坑中……**~~ 
+>
+> 当下，我正在尝试把博客部署到 netlify，灵感来自  [antfu.me](https://antfu.me)。
 
-**转战 Hexo，弃坑中……**
+## 说明
 
 适用于 [Gridea 静态博客客户端](https://github.com/getgridea/gridea)的博客主题 Rocky，根据自己的喜好做了一些修改。仅供学习交流！
 
